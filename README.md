@@ -1,2 +1,2 @@
-# Animate-menu
-Created Animate menu using HTML and CSS
+# Animated-menu
+Created Animated menu using HTML and CSS
